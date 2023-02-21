@@ -7,7 +7,6 @@
             "banner": "https://res.cloudinary.com/duvxdk55r/image/upload/v1676994695/food-app/rest1_x8gqtk.jpg",
             "stars": 4.5,
             "schedule": "Monday - Friday: 11am - 10pm, Saturday - Sunday: 11am - 11pm",
-            "logo": "https://example.com/images/pizza-palace-logo.png",
             "food-categories": [
                 "pizza",
                 "hamburger",
@@ -60,7 +59,6 @@
             "banner": "https://res.cloudinary.com/duvxdk55r/image/upload/v1676994703/food-app/rest2_vto3j0.jpg",
             "stars": 4.2,
             "schedule": "Monday - Friday: 12pm - 10pm, Saturday - Sunday: 11am - 11pm",
-            "logo": "https://example.com/images/sushi-station-logo.png",
             "food-categories": [
                 "sushi",
                 "ramen",
@@ -113,7 +111,6 @@
             "banner": "https://res.cloudinary.com/duvxdk55r/image/upload/v1676994717/food-app/rest3_nxpcw2.jpg",
             "stars": 3.8,
             "schedule": "Open daily: 11am - 9pm",
-            "logo": "https://example.com/images/burgers-and-fries-logo.png",
             "food-categories": [
                 "burger",
                 "fries",
@@ -165,7 +162,6 @@
                 "banner": "https://res.cloudinary.com/duvxdk55r/image/upload/v1676994717/food-app/rest3_nxpcw2.jpg",
                 "stars": 4.0,
                 "schedule": "Monday - Friday: 11am - 9pm, Saturday - Sunday: 12pm - 10pm",
-                "logo": "https://example.com/images/sushi-time-logo.png",
                 "food-categories": [
                     "sushi",
                     "noodles",
